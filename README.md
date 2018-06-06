@@ -22,7 +22,7 @@ In the main directory: `npm i`
 To test that the app can run
 
 #### General Outcomes For Test ####
-Form/inouts for user data and form/inputs for querying weather by city or city & country
+Form/inouts for user data and form/inputs for querying weather by city or city & country, could be on seperate pages.
 
 #### General things being assessed in test ####
 * Knowledge and use of Observables
