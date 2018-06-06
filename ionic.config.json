@@ -2,5 +2,11 @@
   "name": "ctrl-test",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {},
+  "proxies": [
+  {
+      "path": "/api/weather",
+      "proxyUrl": "http://api.openweathermap.org/data/2.5/weather"
+  }
+]
 }
