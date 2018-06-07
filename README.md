@@ -36,3 +36,5 @@ Form/inouts for user data and form/inputs for querying weather by city or city &
 * [Ionic](https://ionicframework.com/docs)
 * [Weather API](https://www.openweathermap.org/current)
 
+* If you get stuck you can ask me some questions at christo.goosen<at>takectrl.co.za
+
