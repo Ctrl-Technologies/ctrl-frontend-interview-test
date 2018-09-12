@@ -5,7 +5,7 @@
 #### First things first, install ionic #### 
 * Make sure you have node:  `node --version`
 * Make sure you have npm: `npm --version`
-* znpm install -g ionic`
+* npm install -g ionic`
 
 #### Clone this repo if you haven't already ####
 
@@ -19,7 +19,15 @@ In the main directory: `npm i`
 
 #### Test if its working ####
 
-To test that the app can run
+To test that the app can run in the browser ionic serve
+
+### Running project ###
+
+ionic serve -cl
+
+For ios/android
+* ionic cordova emulate android
+* ionic codova emulate ios
 
 #### General Outcomes For Test ####
 Form/inouts for user data and form/inputs for querying weather by city or city & country, could be on seperate pages.
