@@ -23,11 +23,11 @@ To test that the app can run in the browser ionic serve
 
 ### Running project ###
 
-ionic serve -cl
+`ionic serve -cl`
 
 For ios/android
-* ionic cordova emulate android
-* ionic codova emulate ios
+* `ionic cordova emulate android`
+* `ionic codova emulate ios`
 
 #### General Outcomes For Test ####
 Form/inouts for user data and form/inputs for querying weather by city or city & country, could be on seperate pages.
